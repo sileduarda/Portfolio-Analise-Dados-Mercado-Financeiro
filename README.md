@@ -29,3 +29,7 @@ Este projeto simula a identificação de atividades suspeitas de "Estruturação
 
 ## Contato
 
+  <a href="https://www.linkedin.com/in/eduardasouzoo" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white&v=1" alt="LinkedIn">
+  </a>
+</p>
