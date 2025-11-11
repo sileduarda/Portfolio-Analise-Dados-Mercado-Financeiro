@@ -27,4 +27,3 @@ Este projeto simula a identificação de atividades suspeitas de "Estruturação
 
 ## Contato
 
-* **LinkedIn:** [Seu LinkedIn Aqui]
