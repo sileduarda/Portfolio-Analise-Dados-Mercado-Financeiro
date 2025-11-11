@@ -69,7 +69,7 @@ O script gera dois gráficos que plotam o preço de fechamento da `PETR4.SA` e d
 
 Esta visualização destaca os dias que o modelo de ML considerou atípicos com base na *combinação* de volume e variação de preço.
 
-![Anomalias detectadas pelo Isolation Forest](anomalia_ml.png)
+![Anomalias detectadas pelo Isolation Forest](anomalias_ml.png)
 
 ### Gráfico 2: Anomalias por Estatística (Z-Score de Volume)
 
