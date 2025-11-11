@@ -15,7 +15,7 @@ Este projeto utiliza Python para identificar dias de negociação com padrões a
 
 ## 🛡️ Projeto 2: Análise de Prevenção à Lavagem de Dinheiro (SQL + R + GLM)
 
-### ============================== EM DESENVOLVIMENTO ==============================
+### ==== EM DESENVOLVIMENTO ====
 
 Este projeto simula a identificação de atividades suspeitas de "Estruturação" (Smurfing).
 1.  Um banco de dados de transações é criado (Python + SQLite).
